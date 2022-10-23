@@ -1,6 +1,6 @@
-@base <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/Profile.ttl> .
+@base <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/foaf.ttl> .
 
-@prefix sg: <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/Profile.ttl#> .
+@prefix sg: <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/foaf.ttl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -27,7 +27,7 @@
    fofo:homepage <https://www.facebook.com/maggot.krn/>
    foaf:knows <https://www.u-cursos.cl/usuario/a8a4a2b03ec1b69518b4a6d618a502c6/datos_usuario/> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    foaf:interest dbr:Prognostics , dbr:Data Minning , dbr:Read ; 
-   social:hasEnemy <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/Profile.ttl#sg> ;
+   social:hasEnemy <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/foaf.ttl#sg> ;
    social:likesMovie dbr:GoodFellas , dbr:The Usual suspects , dbr:Casino , dbr:The godfather ;
    social:hasSpiritAnimal dbr:Snake ;
    social:hasFavouritePlatonicSolid dbr:Isocahedron ;
