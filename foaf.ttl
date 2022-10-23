@@ -25,7 +25,7 @@
    foaf:age 27 ; 
    foaf:img <http://static.wikia.nocookie.net/futuramaworldsoftomorrow_gamepedia_en/images/b/bc/Character_Scruffy.png/revision/latest?cb=20170702210502> ;
    foaf:homepage <https://www.facebook.com/maggot.krn/> ;
-   foaf:knows <https://www.u-cursos.cl/usuario/a8a4a2b03ec1b69518b4a6d618a502c6/datos_usuario/> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
+   foaf:knows <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
    foaf:interest dbr:Prognostics , dbr:Data_Minning , dbr:Read ; 
    social:hasEnemy <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/foaf.ttl#sg> ;
    social:likesMovie dbr:GoodFellas , dbr:The_Usual_Suspects , dbr:Casino , dbr:The_Godfather ;
