@@ -23,12 +23,12 @@
    foaf:givenName "Sebastian" ;
    foaf:familyName "Garcia" ;
    foaf:age 27 ; 
-   foaf:img <https://static.wikia.nocookie.net/futuramaworldsoftomorrow_gamepedia_en/images/b/bc/Character_Scruffy.png/revision/latest?cb=20170702210502> ;
+   foaf:img <http://static.wikia.nocookie.net/futuramaworldsoftomorrow_gamepedia_en/images/b/bc/Character_Scruffy.png/revision/latest?cb=20170702210502> ;
    foaf:homepage <https://www.facebook.com/maggot.krn/> ;
    foaf:knows <https://users.dcc.uchile.cl/~dhernand/foaf.ttl#dh> , <http://users.dcc.uchile.cl/~ahogan/abot.ttl#ab> ;
-   foaf:interest dbr:Prognostics , dbr:Data Minning , dbr:Read ; 
+   foaf:interest dbr:Prognostics , dbr:Data_Minning , dbr:Read ; 
    social:hasEnemy <http://raw.githubusercontent.com/SebastianGarciaAstorga/Watos_Lab9/main/foaf.ttl#sg> ;
-   social:likesMovie dbr:GoodFellas , dbr:The Usual suspects , dbr:Casino , dbr:The godfather ;
+   social:likesMovie dbr:GoodFellas , dbr:The_Usual_Suspects , dbr:Casino , dbr:The_Godfather ;
    social:hasSpiritAnimal dbr:Snake ;
    social:hasFavouritePlatonicSolid dbr:Isocahedron ;
    foaf:myersBriggs "ENFP" .
