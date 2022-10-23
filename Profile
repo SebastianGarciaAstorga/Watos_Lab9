@@ -31,4 +31,4 @@
    social:likesMovie dbr:GoodFellas , dbr:The Usual suspects , dbr:Casino , dbr:The godfather ;
    social:hasSpiritAnimal dbr:Snake ;
    social:hasFavouritePlatonicSolid dbr:Isocahedron ;
-   foaf:myersBriggs "INTP" .
+   foaf:myersBriggs "ENFP" .
